@@ -1,0 +1,43 @@
+.material-card-container{
+    width: 25%;
+    margin-bottom:5px;
+    border: 1px solid green;
+    box-sizing: border-box;  
+    left:50%;
+}
+
+.material-card-center{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.material-card-center img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    
+}
+
+.material-card-center div{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.download-share-buttons{
+    float:right;
+}
+
+.material-button{
+    background-color: white;
+    border-color: white;
+    cursor: pointer;
+}
+
+.material-button:hover{}
+
+.material-button-text{
+    color:grey;
+}

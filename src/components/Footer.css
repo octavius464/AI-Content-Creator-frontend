@@ -1,0 +1,39 @@
+.main-footer {
+    color: white;
+    background-color: #333;
+    padding-top: 0.3cm;
+    position:relative;
+    width: 100%;
+}
+
+.main-footer .container{
+    display:table;
+    vertical-align: top;
+    width: 100%;
+}
+
+
+.main-footer .col {
+    width: 33%;
+    display:inline-block;
+    box-sizing: border-box;
+    height:100%;
+    display: table-cell;
+}
+
+.main-footer a {
+    color: #1abc9c;
+    text-decoration: none;
+}
+.main-footer a:hover {
+    color: #1abc9c;
+    text-decoration: underline;
+}
+
+.main-footer h4 {
+    margin-left:5px;
+}
+
+.main-footer li {
+    margin-left:5px;
+}
